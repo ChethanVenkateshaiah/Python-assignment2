@@ -15,7 +15,7 @@ This script, `growdataset.py`, visualizes GROW sensor locations from `GrowLocati
 Install dependencies:
 ```bash
 pip install pandas matplotlib
-```bash
+```
 
 
 ## Usage
